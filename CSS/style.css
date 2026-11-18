@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    border-collapse: collapse;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+}
+
+.marvel{
+    width: 200px;
+}
+
+main{
+    background-color: black;
+    text-align: center;
+}
+
+.name{
+    margin-bottom: 30px;
+    color: yellow;
+    padding-top: 20px;
+}
+
+.portada{
+    width: 700px;
+}
+
+h1, p{
+    margin: 20px;
+    color: aliceblue;
+}
+
+.botonlink{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(149, 0, 0);
+    border: 1px solid rgb(176, 176, 0);
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration:none ;
+}
+
+.film{
+    box-align: center;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: rgb(85, 85, 85);
+}
+
